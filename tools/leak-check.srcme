@@ -1,1 +1,1 @@
-cargo build && valgrind --leak-check=full target/debug/ll
+cargo build && valgrind --leak-check=full target/debug/linkedlist

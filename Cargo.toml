@@ -1,5 +1,5 @@
 [package]
-name = "ll"
+name = "linkedlist"
 version = "0.1.0"
 authors = ["skep"]
 edition = "2018"
